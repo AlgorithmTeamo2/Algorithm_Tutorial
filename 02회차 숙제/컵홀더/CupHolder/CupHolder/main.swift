@@ -11,7 +11,7 @@ import Foundation
 let firstNumSeats = Int(readLine()!)!
 // 좌석 정보.
 let lineInfo = readLine()!.map{ $0 }
-// 컵홀더는 무조건 한개가 있다.
+
 var count : Int = 0
 var result : Int = 0
 
